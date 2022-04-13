@@ -10,7 +10,7 @@
         android:layout_height="200dp"
         android:id="@+id/original"
         android:layout_centerHorizontal="true"
-
+        android:src="@drawable/shibba"
         android:layout_marginTop="20dp"></androidx.appcompat.widget.AppCompatImageView>
 
    <androidx.appcompat.widget.AppCompatButton
